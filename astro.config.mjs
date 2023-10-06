@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 
-			title: 'Nazar Page',
+			title: 'My Homepage',
 			social: {
 				github: 'https://github.com/npermana',
 				// linkedin: 'https://www.linkedin.com/in/evotianusb',
